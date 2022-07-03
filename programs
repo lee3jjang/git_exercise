@@ -5,5 +5,4 @@ push
 branch
 pull
 add
-rebase
 commit
