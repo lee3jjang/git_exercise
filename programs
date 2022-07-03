@@ -3,3 +3,4 @@ restore
 checkout
 push
 branch
+pull
