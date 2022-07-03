@@ -7,3 +7,5 @@ pull
 add
 commit
 rebase
+fetch
+log
