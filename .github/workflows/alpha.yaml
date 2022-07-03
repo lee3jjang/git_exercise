@@ -1,0 +1,18 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - alpha
+
+env:
+  MYNAME: sangjin
+
+jobs:
+  go-go:
+    name: Go, Go
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run : |
+          echo "Hello World"
