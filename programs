@@ -2,3 +2,4 @@ switch
 restore
 checkout
 branch
+pull
