@@ -1,11 +1,21 @@
 {
     "configurations": [
     {
-        "name": "Launch Chrome",
+        "name": "Client Debugger",
         "request": "launch",
         "type": "chrome",
         "url": "http://localhost:3001",
         "webRoot": "${workspaceFolder}/myapp/src"
+    }, {
+        "name": "Server Debugger",
+        "request": "launch",
+        "type": "python",
+        "program": "${workspaceFolder}/myserver/manage.py",
+        "args": [
+            "runserver",
+            "0.0.0.0:8010"
+        ],
+        "django": true
     }
     ]
 }
