@@ -8,4 +8,4 @@ add
 commit
 rebase
 fetch
-log
+log rebased
