@@ -4,4 +4,5 @@ checkout
 push
 branch
 pull
+add
 commit
