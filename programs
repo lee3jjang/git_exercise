@@ -9,3 +9,5 @@ commit
 rebase
 fetch
 log rebased
+
+this is 1st commit in the master
