@@ -10,3 +10,4 @@
 
 git add -p + s
 git app -p + e
+show me the money
