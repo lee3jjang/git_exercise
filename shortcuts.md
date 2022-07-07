@@ -8,4 +8,5 @@
 - cmd + 1, 2, 3... : 분할 창 이동
 - ctrl + 1, 2, 3,.... : 한 탭 내 이동
 
+git add -p + s
 git app -p + e
