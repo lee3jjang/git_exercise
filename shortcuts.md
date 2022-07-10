@@ -11,3 +11,6 @@
 git add -p + s
 git app -p + e
 show me the money
+
+show me the money
+operation cwal
